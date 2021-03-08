@@ -6,3 +6,4 @@ weapp test1
 
 weapp test2
 weapp test3
+weapp add from cloud
