@@ -10,6 +10,8 @@ weapp test3
 weapp add from cloud
 =======
 weapp test4
->>>>>>> dev
 
 cloud ut1
+weapp test5
+weapp test6
+
