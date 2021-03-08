@@ -16,3 +16,5 @@ weapp test5
 weapp test6
 cloud ut2
 cloud ut3
+weapp test8
+
